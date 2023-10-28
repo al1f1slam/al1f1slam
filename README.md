@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Alif Islam Siam</h1>
-#### CS Student // AIUB 
+<h3>Hi 👋, I'm Alif Islam Siam</h3>
+<h3>CS Student | AIUB</h3>
 <h3>Seeking an opportunity to work for an organization to have a platform to learn and explore new technologies and to improve my skills.</h3>
 
 - 📫 How to reach me **alif.siam007@gmail.com**
