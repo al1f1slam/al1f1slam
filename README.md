@@ -4,8 +4,6 @@
 
 - 📫 How to reach me **alif.siam007@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/o3ck8j826e](https://flowcv.com/resume/o3ck8j826e)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/al1f1slam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/al1f1slam/" height="30" width="40" /></a>
